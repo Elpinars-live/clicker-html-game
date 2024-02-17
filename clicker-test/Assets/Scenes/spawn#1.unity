@@ -368,8 +368,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13d0e62721e731a47916713e45e4ef50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
-  lerpSpeed: 1
+  target: {fileID: 964403639}
+  lerpSpeed: 2.5
 --- !u!1001 &871991732
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -458,6 +458,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   lerpSpeed: 1
+--- !u!4 &964403639 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5628018141983903106, guid: ef67ba864d1ecc042b5f4cf48455c0a6,
+    type: 3}
+  m_PrefabInstance: {fileID: 434101510}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &980326656
 PrefabInstance:
   m_ObjectHideFlags: 0
